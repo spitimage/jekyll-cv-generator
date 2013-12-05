@@ -1,0 +1,115 @@
+name: John Doe
+home: jdoe.com
+email: jdoe@gmail.com
+summary:
+ text: Magic maker and a hero of yours.
+
+objective:
+ text: Seeking to contribute blood, sweat, and tears. That is all.
+
+skills:
+ - name: Languages
+   items:
+    - name: JavaScript
+    - name: Python
+    - name: Java
+    - name: C++
+    - name: SQL
+ - name: Backend
+   items:
+    - name: Node
+    - name: Django
+ - name: Frontend
+   items:
+    - name: AngularJS
+    - name: BackboneJS
+    - name: D3
+    - name: JQuery
+    - name: ExtJS
+ - name: Standards
+   items:
+    - name: Websockets
+    - name: HTML5 Canvas
+    - name: CSS3
+ - name: Testing
+   items:
+    - name: Mocha
+    - name: Karma
+
+ - name: Databases
+   items:
+    - name: MongoDB
+    - name: PostgreSQL
+    - name: PostGIS
+    - name: Redis
+ - name: Platforms
+   items:
+    - name: AWS
+    - name: Cloud Foundry
+    - name: Digital Ocean
+ - name: Mobile
+   items:
+    - name: Android
+    - name: HTML5 Hybrid
+ - name: CM
+   items:
+    - name: Git
+    - name: Subversion
+
+professional:
+ - name: Acme Inc.
+   link: http://acme.com
+   location: Nowhere, NY
+   start: 10/1979
+   end: Present
+   title: Code Monkey
+   summary: Been on this sinking ship since before the internet.
+   projects:
+
+    - name: Koala DSP
+      description: Implemented a unique DSP algorithm to mimic koala bears.
+      skills:
+       - Hardcore C
+       - Hardcore DSP
+
+    - name: First Company Website
+      link: http://acme.com/
+      description: Learned HTML and rocked everyone's world.
+      skills:
+       - HTML
+       - Not CSS
+
+
+ - name: Buford University
+   link: http://buu.edu
+   location: Elseware, OK
+   start: 12/1966
+   end: 10/1979
+   title: Lab Rat
+   summary: Responsible for labs and stuff.
+   projects:
+
+    - name: Punch Card Optimization
+      description: Since I coded like the wind (even then), I needed a better way to write software
+      skills:
+       - Diplomacy
+       - Reading
+       - Writing
+
+
+education:
+ colleges:
+  - name: Buford University
+    link: http://buu.edu/
+    year: 1966
+    degree: BSCS
+
+certsAndAwards:
+ - name: Advanced Rubber Necking
+   year: 2000
+ - name: Crimes and Indigestion
+   year: 2007
+
+clearance:
+ name: Aspiring
+
